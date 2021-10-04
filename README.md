@@ -15,7 +15,7 @@ Passionate about creating and learning more about the world of technology!!
 ##
  📫 reach me 👇
 <div  >
- <a href = "mailto:diana.p.rosalem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+ <a href = "mailto:diana.rosalem.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diana-poltronieri-rosalém-5881631b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
 
