@@ -7,7 +7,7 @@ I am a junior developer with a degree in Computer Science from the University of
 
 Passionate about creating and learning more about the world of technology!!
 ##
-🎓Currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning.
+🎓Currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning.🎓
 
 🧠 "Learning is the only thing the mind never exhausts, never fears, and never regrets." - Leonardo da Vinci 🧠
 ##
