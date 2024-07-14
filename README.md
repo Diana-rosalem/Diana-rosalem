@@ -1,17 +1,15 @@
 ### HEY 👋
 
+My name is Diana Rosalém (she/her) 👩‍💻🇧🇷 
+<img align="right" alt="groot-hi" src="https://github.com/Diana-rosalem/Diana-rosalem/blob/main/groot_dance.gif" width="350" height="250" >
 
-My name is Diana Rosalém (she/her)👩‍💻🇧🇷 <img align="right" alt="groot-hi"  src="https://github.com/Diana-rosalem/Diana-rosalem/blob/main/groot_dance.gif" width="350" height="250" >
-
-
-
-I am a computer science student at the University of Vila Velha (Brazil).
+I am a junior developer with a degree in Computer Science from the University of Vila Velha (Brazil).
 
 Passionate about creating and learning more about the world of technology!!
 ##
- 🧠"Learning is the only thing the mind never exhausts, never fears, and never regrets.-Leonardo da Vinci"🧠
+🎓Currently pursuing a postgraduate degree in Artificial Intelligence and Machine Learning.
 
-🎓 I am currently studying and being part of a project at the university, which is based on Named Entity Recognition and Natural Language Processing.
+🧠 "Learning is the only thing the mind never exhausts, never fears, and never regrets." - Leonardo da Vinci 🧠
 ##
  📫 reach me 👇
 <div  >
@@ -20,5 +18,4 @@ Passionate about creating and learning more about the world of technology!!
 <div>
 
  ![Snake animation](https://github.com/Diana-rosalem/Diana-rosalem/blob/output/github-contribution-grid-snake.svg)
- 
 
