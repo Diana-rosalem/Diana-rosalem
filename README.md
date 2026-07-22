@@ -3,7 +3,7 @@
 My name is Diana Rosalém (she/her) 👩‍💻🇧🇷 
 <img align="right" alt="groot-hi" src="https://github.com/Diana-rosalem/Diana-rosalem/blob/main/groot_dance.gif" width="350" height="250" >
 
-I am a junior developer with a degree in Computer Science from the University of Vila Velha (Brazil).
+I am a developer with a degree in Computer Science from the University of Vila Velha (Brazil).
 
 Passionate about creating and learning more about the world of technology!!
 ##
